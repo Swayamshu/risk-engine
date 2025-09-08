@@ -1,0 +1,18 @@
+# web Fremework and API
+fastapi
+uvicorn[standard]
+
+# Data processing
+pandas
+numpy
+scipy
+
+# Database
+sqlalchemy
+
+# Data Models and Validation
+pydantic
+pydantic_settings
+
+# Logging
+structlog
