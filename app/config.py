@@ -8,7 +8,7 @@ class Settings(BaseSettings):
     PORT: int = 8000
 
     # API Configuration
-    API_V1_STR: str = "/api/v1"
+    API_V1_STR: str = "/api/risk-engine/v1"
     PROJECT_NAME: str = "Risk Engine Service"
     DESCRIPTION: str = "API for Portfolio risk analysis and financial calculations"
     VERSION: str = "0.1.0"

@@ -1,6 +1,7 @@
 # web Fremework and API
 fastapi
 uvicorn[standard]
+requests
 
 # Data processing
 pandas
@@ -16,3 +17,7 @@ pydantic_settings
 
 # Logging
 structlog
+
+# Market Data APIs
+yfinance
+alpha-vantage
